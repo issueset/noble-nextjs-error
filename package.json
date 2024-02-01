@@ -6,9 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@noble/ciphers": "^0.4.1",
     "date-fns": "^2.29.3",
     "gray-matter": "^4.0.3",
-    "next": "latest",
+    "next": "13.5.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "remark": "^14.0.2",
